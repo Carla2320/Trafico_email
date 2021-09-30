@@ -1,19 +1,16 @@
 # traffic
 
-## Project setup
+### Intalar Node.js
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Entrar en https://nodejs.org/es/download/ y descargar el instalador de Node.js en el sistema operativo deseado. 
 ```
 
-### Compiles and minifies for production
+### Instalación de recursos
 ```
-npm run build
+Una vez instalado Node.js, ingresar a la carpeta descargada del gitHub y en el cmd poner el siguiente: npm install
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Compilar
+```
+Finalmente, ejecutar el siguiente comando: npm run serve
+```
