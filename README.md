@@ -1,6 +1,6 @@
 # traffic
 
-### Intalar Node.js
+### Instalar Node.js
 ```
 Entrar en https://nodejs.org/es/download/ y descargar el instalador de Node.js en el sistema operativo deseado. 
 ```
